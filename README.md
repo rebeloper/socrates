@@ -21,7 +21,7 @@ Socrates is a licensed plugin — get a key and install instructions at **[rebel
 
 ## Status
 
-Actively developed. This repo is the public face of the project; skills are built and tested in a private companion repo before they land here.
+Pre-v1.0.0 — actively developed. This repo is the public face of the project; skills are built and tested in a private companion repo before they land here. Early-bird pricing is available now, before the v1.0.0 release.
 
 ---
 
