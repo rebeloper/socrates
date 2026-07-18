@@ -32,3 +32,5 @@ The best developers won't be those with the smartest AI. They'll be the ones who
 
 **AI can generate code.**
 **Socrates helps generate better engineers.**
+
+[![Buy Socrates](https://img.shields.io/badge/Buy_Socrates-%241%2C000-635bff?style=for-the-badge&logo=stripe&logoColor=white)](https://buy.stripe.com/aFa3cw0xJ8zCbG4bUd0kE0e)
