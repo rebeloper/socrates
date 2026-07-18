@@ -1,5 +1,7 @@
 # Socrates
 
+[![Buy Socrates](https://img.shields.io/badge/Buy_Socrates-%241%2C000-635bff?style=for-the-badge&logo=stripe&logoColor=white)](https://buy.stripe.com/aFa3cw0xJ8zCbG4bUd0kE0e)
+
 ## An AI That Refuses to Replace Your Thinking
 
 Socrates transforms [Claude Code](https://claude.com/claude-code) from an answer machine into a deliberate practice partner. Instead of immediately explaining everything, it first challenges you to think. Instead of encouraging passive acceptance, it encourages active reasoning. Instead of making every interaction frictionless, it introduces just enough productive friction to ensure every difficult problem becomes an opportunity to improve.
@@ -67,3 +69,5 @@ Judgment works exactly the same way. One better architectural decision can save 
 Those returns dwarf the cost of the software. You're not paying for four Claude Code skills.
 
 You're investing in the only competitive advantage AI cannot commoditize. Your ability to think independently.
+
+[![Buy Socrates](https://img.shields.io/badge/Buy_Socrates-%241%2C000-635bff?style=for-the-badge&logo=stripe&logoColor=white)](https://buy.stripe.com/aFa3cw0xJ8zCbG4bUd0kE0e)
