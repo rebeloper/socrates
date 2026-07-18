@@ -14,7 +14,7 @@ This isn't about making development slower. It's about making learning inevitabl
 
 Every insight you discover yourself strengthens mental models that no autocomplete can build for you. Every design decision you reason through becomes easier to recognize the next time. Every mistake becomes another **Capability Compound**—an investment in judgment that continues paying dividends long after today's AI models are obsolete. That is the game Socrates is designed to play. Not today's sprint. Your next decade.
 
-## Five Skills. One Philosophy.
+## Six Skills. One Philosophy.
 
 Everything Socrates does serves a single objective: preserving and strengthening your ability to think.
 
@@ -44,11 +44,17 @@ Sometimes you don't need another answer. You need a different explanation.
 
 Whether you're learning recursion for the first time, mentoring a junior developer, onboarding to an unfamiliar codebase, or refreshing a concept you haven't touched in years, Socrates adapts the explanation to the level of understanding you actually need. Teaching isn't about saying more. It's about saying exactly enough.
 
+### /quizMe
+
+Reading feels like learning. It isn't. The only way to know whether you actually understand something is to test yourself—before the answer is in front of you.
+
+/quizMe turns anything—a codebase, an article, a concept, the conversation you just had—into a live multiple-choice quiz, one question at a time. Wrong answers don't get corrected; they get a hint and another attempt, because working your way toward the answer is where the learning happens. And when the quiz ends, you decide what happens to the questions that beat you: let them go, or send them straight into Anki so spaced repetition finishes what the quiz started.
+
 ### /toAnki
 
 Understanding something once is not the same as owning it. Insight you never revisit quietly evaporates—usually right around the time you need it again.
 
-/toAnki turns whatever you just worked through—a conversation, a codebase, an article, a concept—into Anki flashcards. Not a bulk export: you review and approve every single card before it enters your deck, because deciding what's worth remembering is itself an act of judgment. Then spaced repetition does what no bookmark ever will. What you earned with Socrates today is still yours in six months.
+/toAnki turns whatever you just worked through—a conversation, a codebase, an article, a concept—into Anki flashcards. By default every card is multiple-choice, the same challenge format Socrates quizzes you with—classic front/back and cloze cards are there when you ask for them. And it's not a bulk export: you review and approve every single card before it enters your deck, because deciding what's worth remembering is itself an act of judgment. Then spaced repetition does what no bookmark ever will. What you earned with Socrates today is still yours in six months.
 
 ## Who Socrates Is For
 
@@ -76,7 +82,7 @@ Every engineer understands the return on compounding investments. Small improvem
 
 Judgment works exactly the same way. One better architectural decision can save months. One avoided production failure can save hundreds of hours. One stronger engineering instinct can shape the trajectory of an entire career.
 
-Those returns dwarf the cost of the software. You're not paying for five Claude Code skills.
+Those returns dwarf the cost of the software. You're not paying for six Claude Code skills.
 
 You're investing in the only competitive advantage AI cannot commoditize. Your ability to think independently.
 
