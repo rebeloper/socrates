@@ -20,6 +20,8 @@ That is why Socrates exists. Socrates does not give you answers. It gives you ba
 
 Instead of solving the problem, it guides you with questions until you discover the solution yourself. Every conversation becomes deliberate practice. Every obstacle becomes an opportunity to strengthen your judgment instead of outsourcing it. Because understanding compounds. Every insight you earn makes the next one easier. Every difficult problem solved through reasoning becomes another **Capability Compound**, an investment that continues paying dividends long after today's models are obsolete.
 
+But earning an insight is only half the work. Insight you cannot recall is insight you no longer own. So Socrates also helps you keep what you earn — deciding what is worth remembering, and turning it into memory that outlasts the session that produced it.
+
 This is the long game.
 
 The future will not belong to the people who can prompt AI the fastest. It will belong to the people who keep becoming harder to replace.
