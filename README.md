@@ -22,6 +22,8 @@ The first three are **modes**—on by default from the moment the plugin is inst
 
 ### Modes
 
+Each mode takes a single `on` or `off` argument—`/socratic-dev off`, `/socratic-talk on`—and stays that way across sessions until you flip it back. The status line always shows which modes are currently active, so you never have to wonder how Socrates is behaving.
+
 #### /socratic-questioning
 
 Before explaining an architectural decision, diagnosing a bug, or teaching a concept, Socrates asks you to answer a carefully chosen multiple-choice question.
@@ -43,6 +45,8 @@ Modern AI conversations are surprisingly wasteful. Verbose explanations, unneces
 Socrates keeps conversations lean. Responses focus on what matters, while noisy terminal output is routed away from your primary context so your sessions remain focused and your token usage stays lower. Less noise. More signal.
 
 ### Commands
+
+Commands don't stay on in the background—each one runs when you call it, does its job, and gets out of the way.
 
 #### /explain
 
