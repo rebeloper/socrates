@@ -18,7 +18,11 @@ Every insight you discover yourself strengthens mental models that no autocomple
 
 Everything Socrates does serves a single objective: preserving and strengthening your ability to think.
 
-### /socratic-questioning
+The first three are **modes**—on by default from the moment the plugin is installed, shaping every conversation until you switch them off. The other three are **commands**—you invoke them when you need them.
+
+### Modes
+
+#### /socratic-questioning
 
 Before explaining an architectural decision, diagnosing a bug, or teaching a concept, Socrates asks you to answer a carefully chosen multiple-choice question.
 
@@ -26,31 +30,33 @@ Not to slow you down. To wake your brain up.
 
 Learning isn't created by reading an explanation. It's created by attempting to predict the explanation before you see it. That small act of retrieval transforms passive consumption into active understanding. Mechanical work stays mechanical. If you've already decided on a solution and simply want Claude to execute it, Socrates gets out of the way. Thinking is only required where thinking actually matters.
 
-### /socratic-dev
+#### /socratic-dev
 
 Code generation has made complexity dangerously inexpensive. Nested abstractions, unnecessary patterns, premature optimization, and clever designs can now be produced faster than ever before. Socrates continuously pushes generated code back toward timeless engineering principles—KISS, DRY, and YAGNI—not because minimalism is fashionable, but because complexity compounds far faster than simplicity.
 
 The result isn't code that merely works. It's code that's easier to understand six months later.
 
-### /socratic-talk
+#### /socratic-talk
 
 Modern AI conversations are surprisingly wasteful. Verbose explanations, unnecessary acknowledgments, and pages of command output consume context without increasing understanding.
 
 Socrates keeps conversations lean. Responses focus on what matters, while noisy terminal output is routed away from your primary context so your sessions remain focused and your token usage stays lower. Less noise. More signal.
 
-### /explain
+### Commands
+
+#### /explain
 
 Sometimes you don't need another answer. You need a different explanation.
 
 Whether you're learning recursion for the first time, mentoring a junior developer, onboarding to an unfamiliar codebase, or refreshing a concept you haven't touched in years, Socrates adapts the explanation to the level of understanding you actually need. Teaching isn't about saying more. It's about saying exactly enough.
 
-### /quizMe
+#### /quizMe
 
 Reading feels like learning. It isn't. The only way to know whether you actually understand something is to test yourself—before the answer is in front of you.
 
 /quizMe turns anything—a codebase, an article, a concept, the conversation you just had—into a live multiple-choice quiz, one question at a time. Wrong answers don't get corrected; they get a hint and another attempt, because working your way toward the answer is where the learning happens. And when the quiz ends, you decide what happens next: let it all go, or send the questions that beat you—or every question—straight into Anki so spaced repetition finishes what the quiz started.
 
-### /toAnki
+#### /toAnki
 
 Understanding something once is not the same as owning it. Insight you never revisit quietly evaporates—usually right around the time you need it again.
 
