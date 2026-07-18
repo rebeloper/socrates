@@ -1,5 +1,7 @@
 # The Socrates Manifesto
 
+[![Buy Socrates](https://img.shields.io/badge/Buy_Socrates-%241%2C000-635bff?style=for-the-badge&logo=stripe&logoColor=white)](https://buy.stripe.com/aFa3cw0xJ8zCbG4bUd0kE0e)
+
 We are entering an age where intelligence is abundant.
 
 AI can write code faster than us. It can debug, refactor, document, explain, and generate entire applications in seconds. The bottleneck is no longer production.
