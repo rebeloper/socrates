@@ -4,7 +4,7 @@
 
 # Socrates
 
-[![Buy Socrates](https://img.shields.io/badge/Buy_Socrates-%241%2C000-635bff?style=for-the-badge&logo=stripe&logoColor=white)](https://buy.stripe.com/aFa3cw0xJ8zCbG4bUd0kE0e)
+[![Buy Socrates](https://img.shields.io/badge/Buy_Socrates-%241%2C000-635bff?style=for-the-badge&logo=stripe&logoColor=white)](https://rebeloper.com/#socrates)
 
 ## An AI That Refuses to Replace Your Thinking
 
@@ -106,4 +106,4 @@ Those returns dwarf the cost of the software. You're not paying for six Claude C
 
 You're investing in the only competitive advantage AI cannot commoditize. Your ability to think independently.
 
-[![Buy Socrates](https://img.shields.io/badge/Buy_Socrates-%241%2C000-635bff?style=for-the-badge&logo=stripe&logoColor=white)](https://buy.stripe.com/aFa3cw0xJ8zCbG4bUd0kE0e)
+[![Buy Socrates](https://img.shields.io/badge/Buy_Socrates-%241%2C000-635bff?style=for-the-badge&logo=stripe&logoColor=white)](https://rebeloper.com/#socrates)
