@@ -17,7 +17,7 @@ I wrote Socrates because I believe the future belongs to developers who can thin
 My mission is simple: help developers invest in the one thing AI can't replace: themselves.
 
 — Alex Nagy
-[rebeloper.com/#xdd](https://rebeloper.com/#xdd)
+[rebeloper.com/#socrates](https://rebeloper.com/#socrates)
 
 *Dedicated to my son and wonderful wife.*
 
