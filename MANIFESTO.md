@@ -1,8 +1,6 @@
 [![Buy Socrates](https://img.shields.io/badge/Buy_Socrates-%241%2C000-635bff?style=for-the-badge&logo=stripe&logoColor=white)](https://buy.stripe.com/aFa3cw0xJ8zCbG4bUd0kE0e)
 
-# Socrates
-
-## Experience Driven Development
+# The Socrates Manifesto
 
 **By Alex Nagy**
 
