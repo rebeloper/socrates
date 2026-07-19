@@ -16,13 +16,13 @@ Every insight you discover yourself strengthens mental models that no autocomple
 
 [![Read the Manifesto](https://img.shields.io/badge/Read_the_Manifesto-000000?style=for-the-badge)](MANIFESTO.md)
 
-Read this before installing anything. The six skills below are the implementation; [the Manifesto](MANIFESTO.md) is the reasoning behind them—why productivity is becoming a commodity, why judgment isn't, and why the friction you're about to opt into is the point, not a bug.
+Read this before installing anything. The seven skills below are the implementation; [the Manifesto](MANIFESTO.md) is the reasoning behind them—why productivity is becoming a commodity, why judgment isn't, and why the friction you're about to opt into is the point, not a bug.
 
-## Six Skills. One Philosophy.
+## Seven Skills. One Philosophy.
 
 Everything Socrates does serves a single objective: preserving and strengthening your ability to think.
 
-The first three are **modes**—on by default from the moment the plugin is installed, shaping every conversation until you switch them off. The other three are **commands**—you invoke them when you need them.
+The first three are **modes**—on by default from the moment the plugin is installed, shaping every conversation until you switch them off. The other four are **commands**—you invoke them when you need them.
 
 ### Modes
 
@@ -59,6 +59,12 @@ Socrates keeps conversations lean. Responses focus on what matters, while noisy 
 ### Commands
 
 Commands don't stay on in the background—each one runs when you call it, does its job, and gets out of the way.
+
+#### /about
+
+Every tool you adopt deserves a moment of honest orientation before you commit to it.
+
+/about introduces Socrates itself, fetched live from the source rather than recited from memory. Ask for the Manifesto and you get the philosophy: why productivity is becoming commoditized and judgment isn't. Ask for the README and you get the practical shape of the thing: what it does, how it's installed, how it's used. Say nothing and it asks which one you actually want—orientation should offer a choice, not assume one.
 
 #### /explain
 
@@ -104,7 +110,7 @@ Every engineer understands the return on compounding investments. Small improvem
 
 Judgment works exactly the same way. One better architectural decision can save months. One avoided production failure can save hundreds of hours. One stronger engineering instinct can shape the trajectory of an entire career.
 
-Those returns dwarf the cost of the software. You're not paying for six Claude Code skills.
+Those returns dwarf the cost of the software. You're not paying for seven Claude Code skills.
 
 You're investing in the only competitive advantage AI cannot commoditize. Your ability to think independently.
 
