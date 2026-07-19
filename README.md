@@ -14,6 +14,10 @@ This isn't about making development slower. It's about making learning inevitabl
 
 Every insight you discover yourself strengthens mental models that no autocomplete can build for you. Every design decision you reason through becomes easier to recognize the next time. Every mistake becomes another **Capability Compound**—an investment in judgment that continues paying dividends long after today's AI models are obsolete. That is the game Socrates is designed to play. Not today's sprint. Your next decade.
 
+[![Read the Manifesto](https://img.shields.io/badge/Read_the_Manifesto-000000?style=for-the-badge)](MANIFESTO.md)
+
+Read this before installing anything. The six skills below are the implementation; [the Manifesto](MANIFESTO.md) is the reasoning behind them—why productivity is becoming a commodity, why judgment isn't, and why the friction you're about to opt into is the point, not a bug.
+
 ## Six Skills. One Philosophy.
 
 Everything Socrates does serves a single objective: preserving and strengthening your ability to think.
