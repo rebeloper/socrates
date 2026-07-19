@@ -1,4 +1,4 @@
-[![Buy Socrates](https://img.shields.io/badge/Buy_Socrates-%241%2C000-635bff?style=for-the-badge&logo=stripe&logoColor=white)](https://rebeloper.com/#socrates)
+[![Join Socrates](https://img.shields.io/badge/Join_Socrates-%241%2C000-635bff?style=for-the-badge&logo=stripe&logoColor=white)](https://rebeloper.com/#socrates)
 
 # The Socrates Manifesto
 
@@ -62,6 +62,8 @@ That is what XDD is about. Not becoming irreplaceable. Not avoiding AI. Not work
 
 Software is only one thing you create during your career. The other is the person who creates it. That is the investment that compounds. That is you, investing in yourself.
 
+[![Join Socrates](https://img.shields.io/badge/Join_Socrates-%241%2C000-635bff?style=for-the-badge&logo=stripe&logoColor=white)](https://rebeloper.com/#socrates)
+
 # Productivity Is Becoming a Commodity
 
 AI is turning speed into table stakes. For years, being faster made you different. A better framework, a better language, a better IDE, a better deployment pipeline, each one gave developers more leverage. Smaller teams could build products that once required entire departments.
@@ -98,6 +100,8 @@ Once everyone has access to extraordinary productivity, the question changes. No
 
 That question is harder to answer. It is also the only race where the finish line never moves, no matter which tool, model, or workflow happens to be trending this year.
 
+[![Join Socrates](https://img.shields.io/badge/Join_Socrates-%241%2C000-635bff?style=for-the-badge&logo=stripe&logoColor=white)](https://rebeloper.com/#socrates)
+
 # The Silent Trade
 
 Every shortcut gives you something. It also skips something. The wheel made travel easier. The calculator made arithmetic faster. GPS made it almost impossible to get lost. Each innovation removed effort from our lives. Very few people would argue we should go back.
@@ -127,6 +131,8 @@ Every time AI solves a problem for you, ask yourself a simple question. Was this
 Those small moments seem insignificant. Over time, they become your career. The developers who thrive in the age of AI will not be the ones who reject automation. They will be the ones who know the difference between friction that wastes time and friction that builds wisdom. One should disappear. The other should be protected deliberately, the same way you would protect any habit that quietly makes you better at what you do.
 
 The most valuable lessons in your career rarely arrive after everything becomes easy. They usually arrive just before it does.
+
+[![Join Socrates](https://img.shields.io/badge/Join_Socrates-%241%2C000-635bff?style=for-the-badge&logo=stripe&logoColor=white)](https://rebeloper.com/#socrates)
 
 # Passive Development
 
@@ -176,6 +182,8 @@ Software developers have always built two things at once. The first was software
 
 Growth is no longer automatic. It is a choice.
 
+[![Join Socrates](https://img.shields.io/badge/Join_Socrates-%241%2C000-635bff?style=for-the-badge&logo=stripe&logoColor=white)](https://rebeloper.com/#socrates)
+
 # Syntax Is Cheap, Complexity Isn't
 
 AI has made syntax cheap. It has not made complexity cheap. There was a time when knowing syntax was a competitive advantage. If you knew the language better than everyone else, you could solve problems faster, write cleaner code, and build things other developers struggled to understand. Memorizing APIs, language features, and framework details was part of becoming a great engineer. The more knowledge you carried in your head, the more valuable you became.
@@ -218,6 +226,8 @@ This is why the future belongs to developers who treat AI as a partner instead o
 
 Syntax is becoming cheaper every year. Judgment is becoming more valuable every year. One is becoming a commodity. The other is becoming your investment in yourself.
 
+[![Join Socrates](https://img.shields.io/badge/Join_Socrates-%241%2C000-635bff?style=for-the-badge&logo=stripe&logoColor=white)](https://rebeloper.com/#socrates)
+
 # Capability Compounds
 
 Most developers measure growth by what they can list. Years of experience. Languages known. Frameworks used. Projects shipped. Those things matter. But they are only the visible part.
@@ -251,6 +261,8 @@ Capability travels with you.
 That is why the greatest investment a developer can make is not in learning the newest framework or the latest AI workflow. It is in building the kind of judgment that makes learning everything else easier. Ironically, AI can help with that. It can explain unfamiliar concepts, challenge your assumptions, generate examples, and expose you to ideas you might never have discovered on your own. The goal is not to avoid AI. The goal is to make sure AI becomes a tool for compounding your capability instead of replacing the very experiences that build it.
 
 That is a small difference in how you approach your work. Over an entire career, it becomes an enormous one. One makes you faster today. The other makes you better tomorrow. If productivity compounds your output, capability compounds your future.
+
+[![Join Socrates](https://img.shields.io/badge/Join_Socrates-%241%2C000-635bff?style=for-the-badge&logo=stripe&logoColor=white)](https://rebeloper.com/#socrates)
 
 # Pause
 
@@ -286,6 +298,8 @@ That is what it means to invest in yourself. It is not something you buy. It is 
 
 You can use AI to build software faster. Or you can use it to build software faster while becoming the kind of engineer who deserves that speed. That is XDD.
 
+[![Join Socrates](https://img.shields.io/badge/Join_Socrates-%241%2C000-635bff?style=for-the-badge&logo=stripe&logoColor=white)](https://rebeloper.com/#socrates)
+
 # The Solution
 
 Philosophy is easy to agree with and difficult to practice. The previous chapter named the idea. This chapter is about what you actually do differently once you believe it.
@@ -307,6 +321,8 @@ Picture an ordinary afternoon. A model hands you forty lines of working code. Th
 That is the whole solution. Not a tool. Not a framework. Not a rule about which model you are allowed to use. Four small habits, repeated on ordinary days, until they are no longer something you remember to do.
 
 They are simply who you are as an engineer.
+
+[![Join Socrates](https://img.shields.io/badge/Join_Socrates-%241%2C000-635bff?style=for-the-badge&logo=stripe&logoColor=white)](https://rebeloper.com/#socrates)
 
 # The Long Game
 
@@ -348,6 +364,8 @@ That is why your greatest career advantage has never been a language, a framewor
 
 Everything else is temporary. Build the thing that lasts.
 
+[![Join Socrates](https://img.shields.io/badge/Join_Socrates-%241%2C000-635bff?style=for-the-badge&logo=stripe&logoColor=white)](https://rebeloper.com/#socrates)
+
 # Invest in Yourself
 
 AI will make developers faster. That much is already clear. It will make software easier to produce, easier to rewrite, easier to explain, easier to test, and easier to ship. That is progress.
@@ -372,4 +390,4 @@ Invest in yourself.
 
 ---
 
-[![Buy Socrates](https://img.shields.io/badge/Buy_Socrates-%241%2C000-635bff?style=for-the-badge&logo=stripe&logoColor=white)](https://rebeloper.com/#socrates)
+[![Join Socrates](https://img.shields.io/badge/Join_Socrates-%241%2C000-635bff?style=for-the-badge&logo=stripe&logoColor=white)](https://rebeloper.com/#socrates)
