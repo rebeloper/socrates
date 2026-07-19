@@ -28,8 +28,6 @@ Each mode takes a single `on` or `off` argument—`/socratic-dev off`, `/socrati
 🏛️·🧿·💬42.7K(21.3%)·♻️~12K
 ```
 
-<img src="assets/status-line-example.png" alt="Status line with all three modes active" width="209">
-
 🏛️ means socratic-questioning is on, 🧿 means socratic-dev is on, and 💬 means socratic-talk is on—followed by your live context usage and, after ♻️, the tokens socratic-talk has saved you this session. Turn a mode off and its segment disappears.
 
 The context usage number is color-coded so you can read the health of your session at a glance: **sand** below 100K tokens, **amber** from 100K, and **red** from 200K—time to wrap up or start fresh. The ♻️ savings count is always **green**.
