@@ -24,6 +24,10 @@ The first three are **modes**—on by default from the moment the plugin is inst
 
 Each mode takes a single `on` or `off` argument—`/socratic-dev off`, `/socratic-talk on`—and stays that way across sessions until you flip it back. The status line always shows which modes are currently active, so you never have to wonder how Socrates is behaving. With all three on, it looks like this:
 
+```
+🏛️·🧿·💬42.7K(21.3%)·♻️~12K
+```
+
 ![Status line with all three modes active](assets/status-line-example.png)
 
 🏛️ means socratic-questioning is on, 🧿 means socratic-dev is on, and 💬 means socratic-talk is on—followed by your live context usage and, after ♻️, the tokens socratic-talk has saved you this session. Turn a mode off and its segment disappears.
