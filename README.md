@@ -46,11 +46,11 @@ Every insight you discover yourself strengthens mental models that no autocomple
 
 Read this before installing anything. The eight skills below are the implementation; [the Manifesto](MANIFESTO.md) is the reasoning behind them—why productivity is becoming a commodity, why judgment isn't, and why the friction you're about to opt into is the point, not a bug.
 
-## Eight Skills. One Philosophy.
+## Nine Skills. One Philosophy.
 
 Everything Socrates does serves a single objective: preserving and strengthening your ability to think.
 
-The first three are **modes**—on by default from the moment the plugin is installed, shaping every conversation until you switch them off. The other five are **commands**—you invoke them when you need them.
+The first three are **modes**—on by default from the moment the plugin is installed, shaping every conversation until you switch them off. The other six are **commands**—you invoke them when you need them.
 
 ### Modes
 
@@ -93,6 +93,14 @@ Commands don't stay on in the background—each one runs when you call it, does 
 Sometimes you don't need another answer. You need a different explanation.
 
 Whether you're learning recursion for the first time, mentoring a junior developer, onboarding to an unfamiliar codebase, or refreshing a concept you haven't touched in years, Socrates adapts the explanation to the level of understanding you actually need. Teaching isn't about saying more. It's about saying exactly enough.
+
+#### /toLesson
+
+An explanation lives in the chat and dies with the chat. Understanding worth keeping needs a home outside the scroll.
+
+/toLesson takes any concept and turns it into a single, self-contained lesson saved as a Markdown file: the intuition behind it, what it is and when to reach for it, a diagram when one earns its place, an implementation when the topic calls for it, the trade-offs worth remembering, and a question that checks whether it actually landed. Same depth levels as `/explain`, so the file speaks to whoever opens it next—including you, in six months, having forgotten all of it.
+
+A good explanation fades once the conversation ends. A lesson you wrote for yourself doesn't.
 
 #### /teachMe
 
