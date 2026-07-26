@@ -12,6 +12,8 @@ Socrates transforms [Claude Code](https://claude.com/claude-code) from an answer
 
 This isn't about making development slower. It's about making learning inevitable.
 
+That's not just philosophy — it's measurable. [Researchers at the University of Chicago and Toronto found](https://time.com/article/2026/04/30/ai-thinking-cognitive-offloading/) that bringing AI in before you've tried a hard problem yourself makes you remember less, narrow your thinking prematurely, and anchor to whatever the model suggests first. Bring it in after — and it helps instead of hollowing you out. That's the exact seam Socrates is built around: challenge first, answer only once you've earned it.
+
 Every insight you discover yourself strengthens mental models that no autocomplete can build for you. Every design decision you reason through becomes easier to recognize the next time. Every mistake becomes another **Capability Compound**—an investment in judgment that continues paying dividends long after today's AI models are obsolete. That is the game Socrates is designed to play. Not today's sprint. Your next decade.
 
 [![Read the Manifesto](https://img.shields.io/badge/Read_the_Manifesto-000000?style=for-the-badge)](MANIFESTO.md)
@@ -118,14 +120,12 @@ The ones playing a game measured in decades instead of deadlines.
 
 ## Why It Costs $1,000
 
-Because this isn't productivity software. It's professional development.
+The research earlier in this README isn't an outlier — study after study finds the same pattern: skill that's never exercised erodes, and judgment is a skill like any other. Socrates is priced like what it protects.
 
-Every engineer understands the return on compounding investments. Small improvements, repeated consistently over long periods of time, create outcomes that look impossible in hindsight.
+Every engineer understands the return on compounding investments. Small improvements, repeated consistently over long periods of time, create outcomes that look impossible in hindsight. Judgment compounds exactly the same way — and unlike a subscription, this is a one-time cost buying a skill that keeps paying out for as long as you're writing code.
 
-Judgment works exactly the same way. One better architectural decision can save months. One avoided production failure can save hundreds of hours. One stronger engineering instinct can shape the trajectory of an entire career.
+Here's how fast it pays back: one better architectural call, one production incident caught before it ships, one design flaw you spot in review before a teammate does — any single one of those is worth more than $1,000 on its own. Most engineers clear that bar inside the first project.
 
-Those returns dwarf the cost of the software. You're not paying for nine Claude Code skills.
-
-You're investing in the only competitive advantage AI cannot commoditize. Your ability to think independently.
+You're not paying for nine Claude Code skills. You're investing in the only competitive advantage AI cannot commoditize — your ability to think independently.
 
 [![Join Socrates](https://img.shields.io/badge/Join_Socrates-%241%2C000-635bff?style=for-the-badge&logo=stripe&logoColor=white)](https://rebeloper.com/#socrates)
