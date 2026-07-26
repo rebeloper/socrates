@@ -16,9 +16,9 @@ Every insight you discover yourself strengthens mental models that no autocomple
 
 [![Read the Manifesto](https://img.shields.io/badge/Read_the_Manifesto-000000?style=for-the-badge)](MANIFESTO.md)
 
-Read this before installing anything. The eight skills below are the implementation; [the Manifesto](MANIFESTO.md) is the reasoning behind them—why productivity is becoming a commodity, why judgment isn't, and why the friction you're about to opt into is the point, not a bug.
+Read this before installing anything. The nine skills below are the implementation; [the Manifesto](MANIFESTO.md) is the reasoning behind them—why productivity is becoming a commodity, why judgment isn't, and why the friction you're about to opt into is the point, not a bug.
 
-## Eight Skills. One Philosophy.
+## Nine Skills. One Philosophy.
 
 Everything Socrates does serves a single objective: preserving and strengthening your ability to think.
 
@@ -72,6 +72,12 @@ Sometimes you don't need another answer. You need a different explanation.
 
 Whether you're learning recursion for the first time, mentoring a junior developer, onboarding to an unfamiliar codebase, or refreshing a concept you haven't touched in years, Socrates adapts the explanation to the level of understanding you actually need. Teaching isn't about saying more. It's about saying exactly enough.
 
+#### /teachMe
+
+An explanation answers the question you asked. It doesn't build the whole mental model.
+
+/teachMe takes anything—a codebase, an article, a concept—and turns it into a guided journey instead of a single answer. Socrates breaks the material into an ordered sequence of steps, shows you the map before you start, then walks you through it one step at a time, at the depth you choose, pausing after each one so you decide what happens next: move on, go deeper, hear it a different way, or ask what's actually confusing you. Nothing gets dumped on you at once, and nothing moves forward until you're ready for it to.
+
 #### /quizMe
 
 Reading feels like learning. It isn't. The only way to know whether you actually understand something is to test yourself—before the answer is in front of you.
@@ -118,7 +124,7 @@ Every engineer understands the return on compounding investments. Small improvem
 
 Judgment works exactly the same way. One better architectural decision can save months. One avoided production failure can save hundreds of hours. One stronger engineering instinct can shape the trajectory of an entire career.
 
-Those returns dwarf the cost of the software. You're not paying for eight Claude Code skills.
+Those returns dwarf the cost of the software. You're not paying for nine Claude Code skills.
 
 You're investing in the only competitive advantage AI cannot commoditize. Your ability to think independently.
 
