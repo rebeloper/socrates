@@ -44,13 +44,25 @@ Every insight you discover yourself strengthens mental models that no autocomple
 
 [![Read the Manifesto](https://img.shields.io/badge/Read_the_Manifesto-000000?style=for-the-badge)](MANIFESTO.md)
 
-Read this before installing anything. The eight skills below are the implementation; [the Manifesto](MANIFESTO.md) is the reasoning behind them—why productivity is becoming a commodity, why judgment isn't, and why the friction you're about to opt into is the point, not a bug.
+Read this before installing anything. The nine skills below are the implementation; [the Manifesto](MANIFESTO.md) is the reasoning behind them—why productivity is becoming a commodity, why judgment isn't, and why the friction you're about to opt into is the point, not a bug.
 
 ## Nine Skills. One Philosophy.
 
 Everything Socrates does serves a single objective: preserving and strengthening your ability to think.
 
 The first three are **modes**—on by default from the moment the plugin is installed, shaping every conversation until you switch them off. The other six are **commands**—you invoke them when you need them.
+
+| Skill | Type | What it does |
+|---|---|---|
+| `/socratic-MCQs` | Mode | Gates explanations, diagnoses, and decisions behind a multiple-choice question you answer first |
+| `/socratic-dev` | Mode | Pushes generated code back toward KISS, DRY, and YAGNI |
+| `/socratic-talk` | Mode | Trims verbose responses and routes noisy command output out of your context |
+| `/explain` | Command | Explains a concept at a chosen depth—five-year-old, junior, non-dev, or teammate |
+| `/toLesson` | Command | Turns a concept into a single self-contained lesson, saved as a Markdown file |
+| `/teachMe` | Command | Walks you through material—a codebase, article, or concept—one paced step at a time |
+| `/quizMe` | Command | Runs a live multiple-choice quiz on anything, with hints instead of instant answers |
+| `/toAnki` | Command | Turns what you just learned into reviewed, approved Anki flashcards |
+| `/dialogue` | Command | A live Socratic back-and-forth that pressure-tests a claim you hold |
 
 ### Modes
 
@@ -158,6 +170,6 @@ Here's how fast it pays back: one better architectural call, one production inci
 
 This is also why it's yours to buy, not your employer's. Plenty of companies will expense a course or a certification — something with a name and a receipt they can point to. Almost none will expense a tool whose entire premise is "this makes you slower on purpose today, so you're sharper in five years" — there's no line item for that, and if you change jobs, the company doesn't keep the payoff anyway. You do. Nobody expects their employer to pay for the gym either, for the same reason. The specific stack you use at work — sure, that's the company's to fund. The mind you bring to every stack after this one is yours.
 
-You're not paying for eight Claude Code skills. You're investing in the only competitive advantage AI cannot commoditize — your ability to think independently.
+You're not paying for nine Claude Code skills. You're investing in the only competitive advantage AI cannot commoditize — your ability to think independently.
 
 [![Join Socrates](https://img.shields.io/badge/Join_Socrates-%241%2C000-635bff?style=for-the-badge&logo=stripe&logoColor=white)](https://rebeloper.com/#socrates)
