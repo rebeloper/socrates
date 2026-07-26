@@ -152,7 +152,7 @@ Every engineer understands the return on compounding investments. Small improvem
 
 Here's how fast it pays back: one better architectural call, one production incident caught before it ships, one design flaw you spot in review before a teammate does — any single one of those is worth more than $1,000 on its own. Most engineers clear that bar inside the first project.
 
-This is also why it's yours to buy, not your employer's. A company will expense a tool that ships more this sprint. It won't expense one that deliberately slows you down today so your judgment is sharper in five years — that return doesn't show up on any roadmap, and if you change jobs, the company doesn't keep it. You do. General capability has always worked this way: nobody expects their employer to pay for the gym, or for the books that made them a better engineer. The specific stack you use at work — sure, that's the company's to fund. The mind you bring to every stack after this one is yours.
+This is also why it's yours to buy, not your employer's. Plenty of companies will expense a course or a certification — something with a name and a receipt they can point to. Almost none will expense a tool whose entire premise is "this makes you slower on purpose today, so you're sharper in five years" — there's no line item for that, and if you change jobs, the company doesn't keep the payoff anyway. You do. Nobody expects their employer to pay for the gym either, for the same reason. The specific stack you use at work — sure, that's the company's to fund. The mind you bring to every stack after this one is yours.
 
 You're not paying for nine Claude Code skills. You're investing in the only competitive advantage AI cannot commoditize — your ability to think independently.
 
