@@ -56,7 +56,7 @@ The first three are **modes**—on by default from the moment the plugin is inst
 |---|---|---|
 | [`/socratic-MCQs`](#socratic-mcqs) | Mode | Gates explanations, diagnoses, and decisions behind a multiple-choice question you answer first |
 | [`/socratic-dev`](#socratic-dev) | Mode | Pushes generated code back toward KISS, DRY, and YAGNI |
-| [`/socratic-talk`](#socratic-talk) | Mode | Trims verbose responses and routes noisy command output out of your context |
+| [`/socratic-talk`](#socratic-talk) | Mode | Trims verbose responses, runs noisy commands in a Sandbox out of your context, and shows the tokens it saved |
 | [`/explain`](#explain) | Command | Explains a concept at a chosen depth—five-year-old, junior, non-dev, or teammate |
 | [`/toLesson`](#tolesson) | Command | Turns a concept into a single self-contained lesson, saved as a Markdown file |
 | [`/teachMe`](#teachme) | Command | Walks you through material—a codebase, article, or concept—one paced step at a time |
@@ -88,13 +88,15 @@ Learning isn't created by reading an explanation. It's created by attempting to 
 
 Code generation has made complexity dangerously inexpensive. Nested abstractions, unnecessary patterns, premature optimization, and clever designs can now be produced faster than ever before. Socrates continuously pushes generated code back toward timeless engineering principles—KISS, DRY, and YAGNI—not because minimalism is fashionable, but because complexity compounds far faster than simplicity.
 
+Simplicity never comes at the cost of safety. Security, trust-boundary validation, data-loss handling, and accessibility stay non-negotiable even while everything else gets simplified.
+
 The result isn't code that merely works. It's code that's easier to understand six months later.
 
 #### /socratic-talk
 
 Modern AI conversations are surprisingly wasteful. Verbose explanations, unnecessary acknowledgments, and pages of command output consume context without increasing understanding.
 
-Socrates keeps conversations lean. Responses focus on what matters, while noisy terminal output is routed away from your primary context so your sessions remain focused and your token usage stays lower. Less noise. More signal.
+Socrates keeps conversations lean. Responses focus on what matters, while a Sandbox runs noisy commands in a subprocess and routes only the derived result back to you—so raw terminal output never lands in your primary context. The status line's ♻️ segment shows the running token total that sandbox has kept out of context this session, so the savings stay visible, not just theoretical. Less noise. More signal.
 
 ### Commands
 
