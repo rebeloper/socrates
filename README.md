@@ -44,9 +44,9 @@ Every insight you discover yourself strengthens mental models that no autocomple
 
 [![Read the Manifesto](https://img.shields.io/badge/Read_the_Manifesto-000000?style=for-the-badge)](MANIFESTO.md)
 
-Read this before installing anything. The nine skills below are the implementation; [the Manifesto](MANIFESTO.md) is the reasoning behind them—why productivity is becoming a commodity, why judgment isn't, and why the friction you're about to opt into is the point, not a bug.
+Read this before installing anything. The eight skills below are the implementation; [the Manifesto](MANIFESTO.md) is the reasoning behind them—why productivity is becoming a commodity, why judgment isn't, and why the friction you're about to opt into is the point, not a bug.
 
-## Nine Skills. One Philosophy.
+## Eight Skills. One Philosophy.
 
 Everything Socrates does serves a single objective: preserving and strengthening your ability to think.
 
@@ -88,12 +88,6 @@ Socrates keeps conversations lean. Responses focus on what matters, while noisy 
 
 Commands don't stay on in the background—each one runs when you call it, does its job, and gets out of the way.
 
-#### /about
-
-Every tool you adopt deserves a moment of honest orientation before you commit to it.
-
-/about introduces Socrates itself, fetched live from the source rather than recited from memory. Ask for the Manifesto and you get the philosophy: why productivity is becoming commoditized and judgment isn't. Ask for the README and you get the practical shape of the thing: what it does, how it's installed, how it's used. Say nothing and it asks which one you actually want—orientation should offer a choice, not assume one.
-
 #### /explain
 
 Sometimes you don't need another answer. You need a different explanation.
@@ -105,6 +99,8 @@ Whether you're learning recursion for the first time, mentoring a junior develop
 An explanation answers the question you asked. It doesn't build the whole mental model.
 
 /teachMe takes anything—a codebase, an article, a concept—and turns it into a guided journey instead of a single answer. Socrates breaks the material into an ordered sequence of steps, shows you the map before you start, then walks you through it one step at a time, at the depth you choose, pausing after each one so you decide what happens next: move on, go deeper, hear it a different way, or ask what's actually confusing you. Nothing gets dumped on you at once, and nothing moves forward until you're ready for it to.
+
+That includes Socrates itself. Run `/teachMe the Socrates plugin` and get the same guided walkthrough—the philosophy, the skills, how they fit together—one step at a time, instead of a single orientation dump.
 
 #### /quizMe
 
@@ -154,6 +150,6 @@ Here's how fast it pays back: one better architectural call, one production inci
 
 This is also why it's yours to buy, not your employer's. Plenty of companies will expense a course or a certification — something with a name and a receipt they can point to. Almost none will expense a tool whose entire premise is "this makes you slower on purpose today, so you're sharper in five years" — there's no line item for that, and if you change jobs, the company doesn't keep the payoff anyway. You do. Nobody expects their employer to pay for the gym either, for the same reason. The specific stack you use at work — sure, that's the company's to fund. The mind you bring to every stack after this one is yours.
 
-You're not paying for nine Claude Code skills. You're investing in the only competitive advantage AI cannot commoditize — your ability to think independently.
+You're not paying for eight Claude Code skills. You're investing in the only competitive advantage AI cannot commoditize — your ability to think independently.
 
 [![Join Socrates](https://img.shields.io/badge/Join_Socrates-%241%2C000-635bff?style=for-the-badge&logo=stripe&logoColor=white)](https://rebeloper.com/#socrates)
