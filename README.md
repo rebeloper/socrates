@@ -54,15 +54,15 @@ The first three are **modes**—on by default from the moment the plugin is inst
 
 | Skill | Type | What it does |
 |---|---|---|
-| `/socratic-MCQs` | Mode | Gates explanations, diagnoses, and decisions behind a multiple-choice question you answer first |
-| `/socratic-dev` | Mode | Pushes generated code back toward KISS, DRY, and YAGNI |
-| `/socratic-talk` | Mode | Trims verbose responses and routes noisy command output out of your context |
-| `/explain` | Command | Explains a concept at a chosen depth—five-year-old, junior, non-dev, or teammate |
-| `/toLesson` | Command | Turns a concept into a single self-contained lesson, saved as a Markdown file |
-| `/teachMe` | Command | Walks you through material—a codebase, article, or concept—one paced step at a time |
-| `/quizMe` | Command | Runs a live multiple-choice quiz on anything, with hints instead of instant answers |
-| `/toAnki` | Command | Turns what you just learned into reviewed, approved Anki flashcards |
-| `/dialogue` | Command | A live Socratic back-and-forth that pressure-tests a claim you hold |
+| [`/socratic-MCQs`](#socratic-mcqs) | Mode | Gates explanations, diagnoses, and decisions behind a multiple-choice question you answer first |
+| [`/socratic-dev`](#socratic-dev) | Mode | Pushes generated code back toward KISS, DRY, and YAGNI |
+| [`/socratic-talk`](#socratic-talk) | Mode | Trims verbose responses and routes noisy command output out of your context |
+| [`/explain`](#explain) | Command | Explains a concept at a chosen depth—five-year-old, junior, non-dev, or teammate |
+| [`/toLesson`](#tolesson) | Command | Turns a concept into a single self-contained lesson, saved as a Markdown file |
+| [`/teachMe`](#teachme) | Command | Walks you through material—a codebase, article, or concept—one paced step at a time |
+| [`/quizMe`](#quizme) | Command | Runs a live multiple-choice quiz on anything, with hints instead of instant answers |
+| [`/toAnki`](#toanki) | Command | Turns what you just learned into reviewed, approved Anki flashcards |
+| [`/dialogue`](#dialogue) | Command | A live Socratic back-and-forth that pressure-tests a claim you hold |
 
 ### Modes
 
