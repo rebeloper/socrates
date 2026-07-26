@@ -14,6 +14,32 @@ This isn't about making development slower. It's about making learning inevitabl
 
 That's not just philosophy — it's measurable. [Researchers at the University of Chicago and Toronto found](https://time.com/article/2026/04/30/ai-thinking-cognitive-offloading/) that bringing AI in before you've tried a hard problem yourself makes you remember less, narrow your thinking prematurely, and anchor to whatever the model suggests first. Bring it in after — and it helps instead of hollowing you out. That's the exact seam Socrates is built around: challenge first, answer only once you've earned it.
 
+<details>
+<summary>Further reading: the research behind this</summary>
+
+**Academic research**
+- [AI-overdependence and human cognitive decline: Hazards, evidence, and mitigation strategies](https://www.sciencedirect.com/science/article/pii/S2451958826001764)
+- [Tool, Tutor, or Crutch?: A grounded theory of cognitive scaffolding and offloading in AI-assisted programming education](https://link.springer.com/article/10.1186/s40594-025-00592-w)
+- [Deskilling, Reskilling or Upskilling?](https://www.sciencedirect.com/science/article/abs/pii/S0268401225001343)
+- [From Algorithm Aversion to AI Dependence](https://myscp.onlinelibrary.wiley.com/doi/full/10.1002/arcp.70008)
+- [AI Technology and Labor Skill Transformation](https://www.sciencedirect.com/science/article/abs/pii/S004016252600096X)
+- [A Survey of AI Reliance](https://arxiv.org/abs/2408.03948)
+- [Knowing About Knowing](https://arxiv.org/abs/2301.11333)
+- [Brainrot: Deskilling and Addiction are Overlooked AI Risks](https://arxiv.org/abs/2605.03512)
+- [A Systematic Review in Computer Science Education](https://www.sciencedirect.com/science/article/pii/S2666920X26000329)
+
+**Articles**
+- [Financial Times – The risk of letting AI do your thinking](https://www.ft.com/content/1f731d9f-5534-4435-b440-e1ded13202a8)
+- [TIME – Are We Losing Our Minds to AI?](https://time.com/article/2026/04/30/ai-thinking-cognitive-offloading/)
+- [The New Yorker – Instead of Taking Your Job, AI Might Transform It](https://www.newyorker.com/culture/open-questions/instead-of-taking-your-job-ai-might-transform-it)
+- [New York Times – Technology Weakens Our Minds. It's Time to Resist.](https://www.nytimes.com/2026/03/27/opinion/technology-mental-fitness-cognitive.html)
+- [The Atlantic – The Age of De-Skilling](https://www.theatlantic.com/ideas/archive/2025/10/ai-deskilling-automation-technology/684669/)
+- [The Week – Deskilling: A dangerous side effect of AI use](https://theweek.com/tech/deskilling-ai-technology)
+- [New York Times – I Saw Something New in San Francisco](https://www.nytimes.com/2026/03/29/opinion/ai-claude-chatgpt-gemini-mcluhan.html)
+- [The New Yorker – The Hidden Costs of Automated Thinking](https://www.newyorker.com/tech/annals-of-technology/the-hidden-costs-of-automated-thinking)
+
+</details>
+
 Every insight you discover yourself strengthens mental models that no autocomplete can build for you. Every design decision you reason through becomes easier to recognize the next time. Every mistake becomes another **Capability Compound**—an investment in judgment that continues paying dividends long after today's AI models are obsolete. That is the game Socrates is designed to play. Not today's sprint. Your next decade.
 
 [![Read the Manifesto](https://img.shields.io/badge/Read_the_Manifesto-000000?style=for-the-badge)](MANIFESTO.md)
@@ -125,6 +151,8 @@ The research earlier in this README isn't an outlier — study after study finds
 Every engineer understands the return on compounding investments. Small improvements, repeated consistently over long periods of time, create outcomes that look impossible in hindsight. Judgment compounds exactly the same way — and unlike a subscription, this is a one-time cost buying a skill that keeps paying out for as long as you're writing code.
 
 Here's how fast it pays back: one better architectural call, one production incident caught before it ships, one design flaw you spot in review before a teammate does — any single one of those is worth more than $1,000 on its own. Most engineers clear that bar inside the first project.
+
+This is also why it's yours to buy, not your employer's. A company will expense a tool that ships more this sprint. It won't expense one that deliberately slows you down today so your judgment is sharper in five years — that return doesn't show up on any roadmap, and if you change jobs, the company doesn't keep it. You do. General capability has always worked this way: nobody expects their employer to pay for the gym, or for the books that made them a better engineer. The specific stack you use at work — sure, that's the company's to fund. The mind you bring to every stack after this one is yours.
 
 You're not paying for nine Claude Code skills. You're investing in the only competitive advantage AI cannot commoditize — your ability to think independently.
 
