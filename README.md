@@ -56,7 +56,7 @@ The first three are **modes**—on by default from the moment the plugin is inst
 |---|---|---|
 | [`/socratic-MCQs`](#socratic-mcqs) | Mode | Gates explanations, diagnoses, and decisions behind a multiple-choice question you answer first |
 | [`/socratic-dev`](#socratic-dev) | Mode | Pushes generated code back toward KISS, DRY, and YAGNI |
-| [`/socratic-talk`](#socratic-talk) | Mode | Trims verbose responses, runs noisy commands in a Sandbox out of your context, and shows the tokens it saved |
+| [`/socratic-talk`](#socratic-talk) | Mode | Trims verbose responses, runs noisy commands in a Sandbox out of your context, and shows your live context usage plus the tokens it saved |
 | [`/explain`](#explain) | Command | Explains a concept at a chosen depth—five-year-old, junior, non-dev, or teammate |
 | [`/toLesson`](#tolesson) | Command | Turns a concept into a single self-contained lesson, saved as a Markdown file |
 | [`/teachMe`](#teachme) | Command | Walks you through material—a codebase, article, or concept—one paced step at a time |
@@ -75,6 +75,8 @@ Each mode takes a single `on` or `off` argument—`/socratic-dev off`, `/socrati
 🏛️ means socratic-MCQs is on, 🧿 means socratic-dev is on, and 💬 means socratic-talk is on—followed by your live context usage and, after ♻️, the tokens socratic-talk has saved you this session. Turn a mode off and its segment disappears.
 
 The context usage number is color-coded so you can read the health of your session at a glance: **sand** below 100K tokens, **amber** from 100K, and **red** from 200K—time to wrap up or start fresh. The ♻️ savings count is always **green**.
+
+This isn't a native Claude Code feature—it's socratic-talk. Turning it on wraps whatever status line command you already have configured, so your original status line keeps running exactly as before, with Socrates' segments appended after it. Turn socratic-talk off and the extra segments disappear, original status line untouched.
 
 #### /socratic-MCQs
 
@@ -96,7 +98,7 @@ The result isn't code that merely works. It's code that's easier to understand s
 
 Modern AI conversations are surprisingly wasteful. Verbose explanations, unnecessary acknowledgments, and pages of command output consume context without increasing understanding.
 
-Socrates keeps conversations lean. Responses focus on what matters, while a Sandbox runs noisy commands in a subprocess and routes only the derived result back to you—so raw terminal output never lands in your primary context. The status line's ♻️ segment shows the running token total that sandbox has kept out of context this session, so the savings stay visible, not just theoretical. Less noise. More signal.
+Socrates keeps conversations lean. Responses focus on what matters, while a Sandbox runs noisy commands in a subprocess and routes only the derived result back to you—so raw terminal output never lands in your primary context. The status line's 💬 segment tracks your live context usage as the conversation grows, and the ♻️ segment shows the running token total that sandbox has kept out of context this session, so both the cost and the savings stay visible, not just theoretical. Less noise. More signal.
 
 ### Commands
 
