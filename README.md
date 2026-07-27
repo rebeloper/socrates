@@ -58,10 +58,10 @@ The first three are **modes**—on by default from the moment the plugin is inst
 | [`/socratic-dev`](#socratic-dev) | Mode | Pushes generated code back toward KISS, DRY, and YAGNI |
 | [`/socratic-talk`](#socratic-talk) | Mode | Trims verbose responses, runs noisy commands in a Sandbox out of your context, and shows your live context usage plus the tokens it saved |
 | [`/explain`](#explain) | Command | Explains a concept at a chosen depth—five-year-old, junior, non-dev, or teammate |
-| [`/toLesson`](#tolesson) | Command | Turns a concept into a single self-contained lesson, saved as a Markdown file |
-| [`/teachMe`](#teachme) | Command | Walks you through material—a codebase, article, or concept—one paced step at a time |
-| [`/quizMe`](#quizme) | Command | Runs a live multiple-choice quiz on anything, with hints instead of instant answers |
-| [`/toAnki`](#toanki) | Command | Turns what you just learned into reviewed, approved Anki flashcards |
+| [`/to-lesson`](#to-lesson) | Command | Turns a concept into a single self-contained lesson, saved as a Markdown file |
+| [`/teach-me`](#teach-me) | Command | Walks you through material—a codebase, article, or concept—one paced step at a time |
+| [`/quiz-me`](#quiz-me) | Command | Runs a live multiple-choice quiz on anything, with hints instead of instant answers |
+| [`/to-anki`](#to-anki) | Command | Turns what you just learned into reviewed, approved Anki flashcards |
 | [`/dialogue`](#dialogue) | Command | A live Socratic back-and-forth that pressure-tests a claim you hold |
 
 ### Modes
@@ -110,33 +110,33 @@ Sometimes you don't need another answer. You need a different explanation.
 
 Whether you're learning recursion for the first time, mentoring a junior developer, onboarding to an unfamiliar codebase, or refreshing a concept you haven't touched in years, Socrates adapts the explanation to the level of understanding you actually need. Teaching isn't about saying more. It's about saying exactly enough.
 
-#### /toLesson
+#### /to-lesson
 
 An explanation lives in the chat and dies with the chat. Understanding worth keeping needs a home outside the scroll.
 
-/toLesson takes any concept and turns it into a single, self-contained lesson saved as a Markdown file: the intuition behind it, what it is and when to reach for it, a diagram when one earns its place, an implementation when the topic calls for it, the trade-offs worth remembering, and a question that checks whether it actually landed. Same depth levels as `/explain`, so the file speaks to whoever opens it next—including you, in six months, having forgotten all of it.
+/to-lesson takes any concept and turns it into a single, self-contained lesson saved as a Markdown file: the intuition behind it, what it is and when to reach for it, a diagram when one earns its place, an implementation when the topic calls for it, the trade-offs worth remembering, and a question that checks whether it actually landed. Same depth levels as `/explain`, so the file speaks to whoever opens it next—including you, in six months, having forgotten all of it.
 
 A good explanation fades once the conversation ends. A lesson you wrote for yourself doesn't.
 
-#### /teachMe
+#### /teach-me
 
 An explanation answers the question you asked. It doesn't build the whole mental model.
 
-/teachMe takes anything—a codebase, an article, a concept—and turns it into a guided journey instead of a single answer. Socrates breaks the material into an ordered sequence of steps, shows you the map before you start, then walks you through it one step at a time, at the depth you choose, pausing after each one so you decide what happens next: move on, go deeper, hear it a different way, or ask what's actually confusing you. Nothing gets dumped on you at once, and nothing moves forward until you're ready for it to.
+/teach-me takes anything—a codebase, an article, a concept—and turns it into a guided journey instead of a single answer. Socrates breaks the material into an ordered sequence of steps, shows you the map before you start, then walks you through it one step at a time, at the depth you choose, pausing after each one so you decide what happens next: move on, go deeper, hear it a different way, or ask what's actually confusing you. Nothing gets dumped on you at once, and nothing moves forward until you're ready for it to.
 
-That includes Socrates itself. Run `/teachMe the Socrates plugin` and get the same guided walkthrough—the philosophy, the skills, how they fit together—one step at a time, instead of a single orientation dump.
+That includes Socrates itself. Run `/teach-me the Socrates plugin` and get the same guided walkthrough—the philosophy, the skills, how they fit together—one step at a time, instead of a single orientation dump.
 
-#### /quizMe
+#### /quiz-me
 
 Reading feels like learning. It isn't. The only way to know whether you actually understand something is to test yourself—before the answer is in front of you.
 
-/quizMe turns anything—a codebase, an article, a concept, the conversation you just had—into a live multiple-choice quiz, one question at a time. Wrong answers don't get corrected; they get a hint and another attempt, because working your way toward the answer is where the learning happens. And when the quiz ends, you decide what happens next: let it all go, or send the questions that beat you—or every question—straight into Anki so spaced repetition finishes what the quiz started.
+/quiz-me turns anything—a codebase, an article, a concept, the conversation you just had—into a live multiple-choice quiz, one question at a time. Wrong answers don't get corrected; they get a hint and another attempt, because working your way toward the answer is where the learning happens. And when the quiz ends, you decide what happens next: let it all go, or send the questions that beat you—or every question—straight into Anki so spaced repetition finishes what the quiz started.
 
-#### /toAnki
+#### /to-anki
 
 Understanding something once is not the same as owning it. Insight you never revisit quietly evaporates—usually right around the time you need it again.
 
-/toAnki turns whatever you just worked through—a conversation, a codebase, an article, a concept—into Anki flashcards. By default every card is multiple-choice, the same challenge format Socrates quizzes you with—classic front/back and cloze cards are there when you ask for them. And it's not a bulk export: you review and approve every single card before it enters your deck, because deciding what's worth remembering is itself an act of judgment. Then spaced repetition does what no bookmark ever will. What you earned with Socrates today is still yours in six months.
+/to-anki turns whatever you just worked through—a conversation, a codebase, an article, a concept—into Anki flashcards. By default every card is multiple-choice, the same challenge format Socrates quizzes you with—classic front/back and cloze cards are there when you ask for them. And it's not a bulk export: you review and approve every single card before it enters your deck, because deciding what's worth remembering is itself an act of judgment. Then spaced repetition does what no bookmark ever will. What you earned with Socrates today is still yours in six months.
 
 #### /dialogue
 
